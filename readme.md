@@ -19,7 +19,6 @@ This algorithm is used to find the shortest paths from a source vertex to all ot
 4. Repeat until all vertices are processed.
 
 
-```markdown
 # Hopcroft-Karp Algorithm
 
 ## What it is
@@ -40,7 +39,6 @@ It efficiently finds the largest possible matching in a bipartite graph, which i
 
 
 
-```markdown
 # Edmunds-Karp Algorithm
 
 ## What it is
@@ -63,7 +61,6 @@ It provides a simple and intuitive way to find the maximum flow in a network, wh
 
 
 
-```markdown
 # Floyd-Warshall Algorithm
 
 ## What it is
@@ -86,7 +83,6 @@ It finds shortest paths between all pairs of vertices, which is useful for solvi
 
 
 
-```markdown
 # Ford-Fulkerson Algorithm
 
 ## What it is
@@ -108,7 +104,6 @@ It is a fundamental algorithm for solving maximum flow problems in networks, whi
 4. Adjust the flows until no more augmenting paths exist.
 
 
-```markdown
 # Kruskal's Algorithm
 
 ## What it is
@@ -132,7 +127,6 @@ It efficiently finds a minimum spanning tree, which is important for optimizing 
 
 
 
-```markdown
 # Prim's Algorithm
 
 ## What it is
