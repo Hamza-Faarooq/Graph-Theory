@@ -1,6 +1,6 @@
 # Dijkstra's Algorithm
 
-### This is a part of Graoh Theory course used in ML & Robotics. 
+### This is a part of Graph Theory course used in ML & Robotics. 
 
 
 ## What it is
