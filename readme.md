@@ -4,7 +4,7 @@
 
 <br>
 
-# Dijkstra's Algorithm
+# DIJKSTRA'S ALGORITHM 
 
 
 
@@ -28,7 +28,7 @@ This algorithm is used to find the shortest paths from a source vertex to all ot
 
 <br>
 
-# Hopcroft-Karp Algorithm
+# HOPCROFT-KARP ALGORITHM 
 
 ## What it is
 The Hopcroft-Karp algorithm is an algorithm that finds a maximum matching in a bipartite graph in O(E√V) time, where E is the number of edges and V is the number of vertices.
@@ -50,7 +50,7 @@ It efficiently finds the largest possible matching in a bipartite graph, which i
 <br>
 
 
-# Edmunds-Karp Algorithm
+# EDMUND'S-KARP ALGORITHM 
 
 ## What it is
 The Edmonds-Karp algorithm is an implementation of the Ford-Fulkerson method for computing the maximum flow in a flow network. It uses BFS to find augmenting paths.
@@ -73,7 +73,7 @@ It provides a simple and intuitive way to find the maximum flow in a network, wh
 <br>
 
 
-# Floyd-Warshall Algorithm
+# FLOYD-WARSHALL ALGORITHM 
 
 ## What it is
 The Floyd-Warshall algorithm is a dynamic programming algorithm for finding shortest paths between all pairs of vertices in a weighted graph with positive or negative edge weights.
@@ -95,7 +95,7 @@ It finds shortest paths between all pairs of vertices, which is useful for solvi
 
 <br>
 
-# Ford-Fulkerson Algorithm
+# FORD-FULKERSON ALGORITHM 
 
 ## What it is
 The Ford-Fulkerson algorithm computes the maximum flow in a flow network by searching for augmenting paths and increasing the flow until no more paths are found.
@@ -118,7 +118,7 @@ It is a fundamental algorithm for solving maximum flow problems in networks, whi
 
 <br>
 
-# Kruskal's Algorithm
+# KRUSKAL'S ALGORITHM 
 
 ## What it is
 Kruskal's algorithm is a minimum spanning tree algorithm that adds edges to the spanning tree in increasing order of their weights.
@@ -142,7 +142,7 @@ It efficiently finds a minimum spanning tree, which is important for optimizing 
 
 <br>
 
-# Prim's Algorithm
+# PRIM'S ALGORITHM 
 
 ## What it is
 Prim's algorithm is a minimum spanning tree algorithm that grows the spanning tree by adding the cheapest possible connection from the tree to another node.
