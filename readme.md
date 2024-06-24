@@ -1,6 +1,8 @@
+# This is a part of Graph Theory course used in ML & Robotics. 
+
+
 # Dijkstra's Algorithm
 
-### This is a part of Graph Theory course used in ML & Robotics. 
 
 
 ## What it is
