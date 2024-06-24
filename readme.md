@@ -26,6 +26,7 @@ This algorithm is used to find the shortest paths from a source vertex to all ot
 3. For the extracted vertex, update the distance for all its adjacent vertices.
 4. Repeat until all vertices are processed.
 
+<br>
 
 # Hopcroft-Karp Algorithm
 
@@ -45,6 +46,8 @@ It efficiently finds the largest possible matching in a bipartite graph, which i
 2. Use DFS to augment the matching along these paths.
 3. Repeat until no more augmenting paths can be found.
 
+
+<br>
 
 
 # Edmunds-Karp Algorithm
@@ -67,6 +70,7 @@ It provides a simple and intuitive way to find the maximum flow in a network, wh
 3. Increase the flow along the path.
 4. Repeat until no more augmenting paths are found.
 
+<br>
 
 
 # Floyd-Warshall Algorithm
@@ -89,7 +93,7 @@ It finds shortest paths between all pairs of vertices, which is useful for solvi
 3. Use an intermediate vertex to find shorter paths.
 4. Repeat for all vertices.
 
-
+<br>
 
 # Ford-Fulkerson Algorithm
 
@@ -111,6 +115,8 @@ It is a fundamental algorithm for solving maximum flow problems in networks, whi
 3. Use DFS or BFS to find paths.
 4. Adjust the flows until no more augmenting paths exist.
 
+
+<br>
 
 # Kruskal's Algorithm
 
@@ -134,6 +140,7 @@ It efficiently finds a minimum spanning tree, which is important for optimizing 
 5. Repeat until there are (V-1) edges in the spanning tree.
 
 
+<br>
 
 # Prim's Algorithm
 
